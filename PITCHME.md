@@ -15,16 +15,16 @@
 ---
 
 ### monacaとは
-+
-+
-+
++ 
++ 
++ 
 ---
 
 ### Realm Mobile Databaseとは
 + node.jsに対応したRealm Mobile Database
 + SQLiteのようにサーバーレスで扱えるNoSQL系データベースで、Swift、Objective-C、Java等で展開されている |
 + SQLiteと比較して高速 |
-+ 利用料金は無料(ここ大事) |
++ 利用料金は無料 |
 ---
 
 # どのくらい速いのか
