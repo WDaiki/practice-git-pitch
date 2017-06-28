@@ -1,28 +1,37 @@
-### U-22進捗状況
+# U-22進捗状況
+---
+
+### 自己紹介?
 ---
 
 ### プロジェクト概要
 + ARを使ったコミュニケーションツール
 <br>
-+ 利用者同士は画面上で分かり、それに対してフレンド申請やチャットを行う
++ ユーザーは画面上で判別でき、他のユーザーにフレンド申請やチャットを行う
 <br>
-+ チャットのログやアイコン等はRealm node.jsにて管理する
++ チャットのログやアイコン等はRealmで管理する
 ---
 
 ### 開発環境
-+ monaca Educationプラン
-+ Realm node.js
-+ 
++ monaca
++ Realm
 ---
 
-### Realm node.jsとは
-+ node.jsに対応したRealm Mobile Database
-+ SQLiteのようにサーバーレスで扱えるNoSQL系データベースで、Swift、Objective-C、Java等で展開されています
+### monacaとは
 ---
 
 ### Realm Mobile Databaseとは
-+ SQLiteと比較して非常に高速
++ node.jsに対応したRealm Mobile Database
++ SQLiteのようにサーバーレスで扱えるNoSQL系データベースで、Swift、Objective-C、Java等で展開されている
++ SQLiteと比較して高速
 + 利用料金は無料(ここ大事)
+---
+
+# どのくらい速いのか
+
+---
+
+### RealmとSQLiteの比較表
 ---
 
 ### 開発進捗状況
@@ -32,6 +41,9 @@
 ---
 
 ### 参考サイト
++
++
++
 
 ---
 ### 質疑応答
