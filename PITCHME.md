@@ -21,7 +21,7 @@
 + クライアントソフトのインストールなしで、開発を行える
 ---
 
-### Realm Mobile Databaseとは
+### Realmとは
 + node.jsに対応したRealm Mobile Database
 + SQLiteのようにサーバーレスで扱えるNoSQL系データベースで、Swift、Objective-C、Java等で展開されている
 + SQLiteと比較して高速
@@ -37,7 +37,7 @@
 ### 開発進捗状況
 + monacaのEducationプランではプラグインを読み込めないため、AR開発が詰まっている
 + チャットとUI/UXデザイン
-+ Realmはバイナリデータを文字コードに変換して格納したい
++ RealmはBase64を使ってバイナリデータを文字コードに変換して格納したい
 ---
 
 ### 参考サイト
