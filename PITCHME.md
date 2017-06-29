@@ -1,4 +1,5 @@
 # U-22進捗状況
+![サンマの塩焼き](xampp/htdocs/img/image.jpg) 
 ---
 
 ### プロジェクト概要
