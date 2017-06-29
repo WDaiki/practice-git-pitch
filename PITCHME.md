@@ -1,5 +1,6 @@
 # U-22進捗状況
-[![桜](sakura.jpg)](http://google.com)
+[![桜](sakura.jpg)][1]
+[1]: http://www.yahoo.co.jp
 ---
 
 ### プロジェクト概要
