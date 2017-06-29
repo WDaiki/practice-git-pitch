@@ -47,5 +47,3 @@
 
 ### 質疑応答
 難しいこと聞かないで><
----
-img src="http://i.imgur.com/Jjwsc.jpg" alt="エビフライトライアングル" title="サンプル"
